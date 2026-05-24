@@ -1,0 +1,74 @@
+[
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "changePercent": -0.12,
+    "marketCap": 3109.32013056
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "changePercent": 1.26,
+    "marketCap": 4535.74918144
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "changePercent": -1.9,
+    "marketCap": 5215.507972096
+  },
+  {
+    "symbol": "GOOG",
+    "name": "Alphabet Inc.",
+    "changePercent": -1.07,
+    "marketCap": 4596.35687424
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "changePercent": -0.8,
+    "marketCap": 2864.833626112
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms, Inc.",
+    "changePercent": 0.47,
+    "marketCap": 1549.098287104
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla, Inc.",
+    "changePercent": 1.95,
+    "marketCap": 1599.975981056
+  },
+  {
+    "symbol": "NFLX",
+    "name": "Netflix, Inc.",
+    "changePercent": -0.78,
+    "marketCap": 373.076754432
+  },
+  {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "changePercent": 3.99,
+    "marketCap": 762.322092032
+  },
+  {
+    "symbol": "IBM",
+    "name": "International Business Machines Corporation",
+    "changePercent": 0.34,
+    "marketCap": 238.580482048
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel Corporation",
+    "changePercent": 1.13,
+    "marketCap": 602.31581696
+  },
+  {
+    "symbol": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "changePercent": -0.16,
+    "marketCap": 39.0155264
+  }
+]
