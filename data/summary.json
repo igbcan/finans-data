@@ -2,73 +2,73 @@
   {
     "symbol": "MSFT",
     "name": "Microsoft Corporation",
-    "changePercent": -1.18,
-    "marketCap": 2737.898258432
+    "changePercent": 1.21,
+    "marketCap": 2770.954616832
   },
   {
     "symbol": "AAPL",
     "name": "Apple Inc.",
-    "changePercent": -0.72,
-    "marketCap": 4138.015391744
+    "changePercent": 2.7,
+    "marketCap": 4249.933053952
   },
   {
     "symbol": "NVDA",
     "name": "NVIDIA Corporation",
-    "changePercent": 1.27,
-    "marketCap": 4722.368446464
+    "changePercent": 2.63,
+    "marketCap": 4846.379859968
   },
   {
     "symbol": "GOOG",
     "name": "Alphabet Inc.",
-    "changePercent": 4.96,
-    "marketCap": 4286.5197056
+    "changePercent": 0.58,
+    "marketCap": 4311.5347968
   },
   {
     "symbol": "AMZN",
     "name": "Amazon.com, Inc.",
-    "changePercent": 3.2,
-    "marketCap": 2583.212326912
+    "changePercent": -0.75,
+    "marketCap": 2563.84958464
   },
   {
     "symbol": "META",
     "name": "Meta Platforms, Inc.",
-    "changePercent": 2.24,
-    "marketCap": 1428.116865024
+    "changePercent": 0.12,
+    "marketCap": 1429.86838016
   },
   {
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
-    "changePercent": 8.46,
-    "marketCap": 1546.757210112
+    "changePercent": 2.13,
+    "marketCap": 1579.65746176
   },
   {
     "symbol": "NFLX",
     "name": "Netflix, Inc.",
-    "changePercent": -0.04,
-    "marketCap": 310.672719872
+    "changePercent": -3.23,
+    "marketCap": 300.651020288
   },
   {
     "symbol": "AMD",
     "name": "Advanced Micro Devices, Inc.",
-    "changePercent": 3.43,
-    "marketCap": 879.69267712
+    "changePercent": 7.68,
+    "marketCap": 947.23211264
   },
   {
     "symbol": "IBM",
     "name": "International Business Machines Corporation",
-    "changePercent": 2.35,
-    "marketCap": 261.288116224
+    "changePercent": 1.15,
+    "marketCap": 264.305147904
   },
   {
     "symbol": "INTC",
     "name": "Intel Corporation",
-    "changePercent": 2.65,
-    "marketCap": 662.02468352
+    "changePercent": 6.01,
+    "marketCap": 701.780393984
   },
   {
     "symbol": "PYPL",
     "name": "PayPal Holdings, Inc.",
-    "changePercent": 0.2,
-    "marketCap": 39.147843584
+    "changePercent": -2.7,
+    "marketCap": 38.089314304
   }
 ]
