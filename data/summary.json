@@ -2,67 +2,67 @@
   {
     "symbol": "MSFT",
     "name": "Microsoft Corporation",
-    "changePercent": 1.38,
-    "marketCap": 2979.545219072
+    "changePercent": -1.82,
+    "marketCap": 2925.466222592
   },
   {
     "symbol": "AAPL",
     "name": "Apple Inc.",
-    "changePercent": 1.76,
-    "marketCap": 4894.70820352
+    "changePercent": 0.14,
+    "marketCap": 4901.757779968
   },
   {
     "symbol": "NVDA",
     "name": "NVIDIA Corporation",
-    "changePercent": -2.4,
-    "marketCap": 5023.435063296
+    "changePercent": -2.21,
+    "marketCap": 4912.260841472
   },
   {
     "symbol": "GOOG",
     "name": "Alphabet Inc.",
-    "changePercent": -4.43,
-    "marketCap": 4317.392142336
-  },
-  {
-    "symbol": "AMZN",
-    "name": "Amazon.com, Inc.",
-    "changePercent": -1.99,
-    "marketCap": 2688.09404416
+    "changePercent": -2.17,
+    "marketCap": 4223.554551808
   },
   {
     "symbol": "META",
     "name": "Meta Platforms, Inc.",
-    "changePercent": -2.46,
-    "marketCap": 1686.883794944
+    "changePercent": -2.79,
+    "marketCap": 1639.846903808
   },
   {
     "symbol": "TSLA",
     "name": "Tesla, Inc.",
-    "changePercent": -0.86,
-    "marketCap": 1468.713271296
+    "changePercent": -2.61,
+    "marketCap": 1430.329884672
   },
   {
     "symbol": "NFLX",
     "name": "Netflix, Inc.",
-    "changePercent": 0.91,
-    "marketCap": 313.072877568
+    "changePercent": -7.26,
+    "marketCap": 290.334539776
+  },
+  {
+    "symbol": "AMD",
+    "name": "AMD",
+    "changePercent": -1.03,
+    "marketCap": 808.38656
   },
   {
     "symbol": "IBM",
     "name": "International Business Machines Corporation",
-    "changePercent": 3.72,
-    "marketCap": 205.881884672
+    "changePercent": -2.91,
+    "marketCap": 199.885406208
   },
   {
     "symbol": "INTC",
     "name": "Intel Corporation",
-    "changePercent": -5.84,
-    "marketCap": 487.421476864
+    "changePercent": -2.0,
+    "marketCap": 477.671030784
   },
   {
     "symbol": "PYPL",
     "name": "PayPal Holdings, Inc.",
-    "changePercent": 2.18,
-    "marketCap": 50.041843712
+    "changePercent": -0.3,
+    "marketCap": 49.891885056
   }
 ]
