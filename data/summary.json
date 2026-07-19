@@ -24,6 +24,12 @@
     "marketCap": 4223.554551808
   },
   {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "changePercent": -1.06,
+    "marketCap": 2659.480240128
+  },
+  {
     "symbol": "META",
     "name": "Meta Platforms, Inc.",
     "changePercent": -2.79,
