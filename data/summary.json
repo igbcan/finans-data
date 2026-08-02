@@ -49,9 +49,9 @@
   },
   {
     "symbol": "AMD",
-    "name": "Advanced Micro Devices, Inc.",
+    "name": "AMD",
     "changePercent": -1.9,
-    "marketCap": 776.410431488
+    "marketCap": 0.0
   },
   {
     "symbol": "IBM",
@@ -69,6 +69,6 @@
     "symbol": "PYPL",
     "name": "PayPal Holdings, Inc.",
     "changePercent": -0.76,
-    "marketCap": 49.3150208
+    "marketCap": 48.940916736
   }
 ]
